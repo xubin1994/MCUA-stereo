@@ -30,3 +30,14 @@ If you are using the code/model/data provided here in a publication, please cons
       booktitle={IEEE CVPR},
       year={2019}
     }
+
+### Acknowledgment
+```
+@inproceedings{chang2018pyramid,
+  title={Pyramid Stereo Matching Network},
+  author={Chang, Jia-Ren and Chen, Yong-Sheng},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={5410--5418},
+  year={2018}
+}
+```
