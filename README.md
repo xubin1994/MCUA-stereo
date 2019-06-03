@@ -23,21 +23,11 @@ by a notable margin and effectively improves the accuracy of stereo matching.
 
 # Citation
 
-If you are using the code/model/data provided here in a publication, please consider citing our paper:<br>
-<br>
->>\@inproceedings{Nie2019Stereo,<br>
->>title={Multi-Level Context Ultra-Aggregation for Stereo Matching},<br>
->>author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},<br>
->>booktitle={IEEE CVPR},<br>
->>year={2019},<br>
->>}
-<br>
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 
-    @inproceedings{liu2017richer,
-      title={Richer Convolutional Features for Edge Detection},
-      author={Liu, Yun and Cheng, Ming-Ming and Hu, Xiaowei and Wang, Kai and Bai, Xiang},
-      booktitle={IEEE conference on computer vision and pattern recognition (CVPR)},
-      pages={3000--3009},
-      year={2017}
+    @inproceedings{Nie2019Stereo,
+      title={Multi-Level Context Ultra-Aggregation for Stereo Matching},
+      author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},
+      booktitle={IEEE CVPR},
+      year={2019}
     }
