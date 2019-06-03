@@ -23,15 +23,17 @@ by a notable margin and effectively improves the accuracy of stereo matching.
 ### Citation
 
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
-
-    @inproceedings{Nie2019Stereo,
-      title={Multi-Level Context Ultra-Aggregation for Stereo Matching},
-      author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},
-      booktitle={IEEE CVPR},
-      year={2019}
-    }
+```
+@inproceedings{Nie2019Stereo,
+  title={Multi-Level Context Ultra-Aggregation for Stereo Matching},
+  author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},
+  booktitle={IEEE CVPR},
+  year={2019}
+}
+```
 
 ### Acknowledgment
+This code is based on PSM-Net. Thanks to the contributors of PSM-Net.
 ```
 @inproceedings{chang2018pyramid,
   title={Pyramid Stereo Matching Network},
