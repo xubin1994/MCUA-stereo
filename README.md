@@ -44,7 +44,10 @@ If you are using the code/model/data provided here in a publication, please cons
 
 ```
 Usage of dataset
-Download the datasets, and put them into one folder, named "datasets", the structure of this folder is shown below:
+Download the datasets, and put them into one folder, named "datasets".
+
+The structure of the folder "datasets" is shown below:
+
 |--datasets
      |--data_scene_flow-kitti2015
      |--data_stereo_flow-kitti2012
