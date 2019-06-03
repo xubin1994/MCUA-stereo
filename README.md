@@ -50,7 +50,11 @@ The structure of the folder "datasets" is shown below:
 
 |--datasets
      |--data_scene_flow-kitti2015
+          |--testing
+          |--training
      |--data_stereo_flow-kitti2012
+          |--testing
+          |--training
      |--SceneFlowData
           |--disparity
                |--driving
