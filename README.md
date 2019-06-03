@@ -32,6 +32,24 @@ If you are using the code/model/data provided here in a publication, please cons
 }
 ```
 
+### Usage
+
+### Dependencies
+
+- [Python2.7](https://www.python.org/downloads/)
+- [PyTorch(0.4.0+)](http://pytorch.org)
+- torchvision 0.2.0 (higher version may cause issues)
+- [KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
+- [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+
+```
+Usage of Scene Flow dataset
+Download RGB cleanpass images and its disparity for three subset: FlyingThings3D, Driving, and Monkaa.
+Put them in the same folder.
+And rename the folder as: "driving_frames_cleanpass", "driving_disparity", "monkaa_frames_cleanpass", "monkaa_disparity", "frames_cleanpass", "frames_disparity".
+```
+
+
 ### Acknowledgment
 
 This code is based on PSM-Net. Thanks to the contributors of PSM-Net.
