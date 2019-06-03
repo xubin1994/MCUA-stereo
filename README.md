@@ -38,9 +38,9 @@ If you are using the code/model/data provided here in a publication, please cons
 
 - [Python2.7](https://www.python.org/downloads/)
 - [PyTorch(0.4.0+)](http://pytorch.org)
-- torchvision 0.2.0 (higher version may cause issues)
-- [KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
-- [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+- torchvision 0.2.0 (higher version will cause issues)
+- [KITTI Stereo Datasets](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
+- [Scene Flow Datasets](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
 
 ```
 Usage of dataset
