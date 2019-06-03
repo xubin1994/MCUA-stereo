@@ -1,6 +1,6 @@
-## [Multi-Level Context Ultra-Aggregation for Stereo Matching](https://mmcheng.net/mcua/)
+# [Multi-Level Context Ultra-Aggregation for Stereo Matching](https://mmcheng.net/mcua/)
 
-### Introduction
+## Introduction
 
 Exploiting multi-level context information to cost volume can improve the performance of learning-based stereo matching methods. 
 In recent years, 3-D Convolution Neural Networks (3-D CNNs) show the advantages in regularizing cost volume
@@ -20,7 +20,7 @@ We also evaluate our method on Scene Flow and KITTI 2012/2015 stereo datasets.
 Experimental results show that our method outperforms state-of-the-art methods 
 by a notable margin and effectively improves the accuracy of stereo matching.
 
-### Citation
+## Citation
 
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 ```
@@ -32,9 +32,9 @@ If you are using the code/model/data provided here in a publication, please cons
 }
 ```
 
-### Usage
+## Usage
 
-#### Dependencies
+### Dependencies
 
 - [Python2.7](https://www.python.org/downloads/)
 - [PyTorch(0.4.0+)](http://pytorch.org)
@@ -96,18 +96,18 @@ The structure of the folder "datasets" is shown below:
                     |--treeflight_x2
 ```
 
-#### Train MCUA
+### Train MCUA
 
-#### Validate MCUA
+### Validate MCUA
 
-#### Train EMCUA
+### Train EMCUA
 
-#### Validate EMCUA
+### Validate EMCUA
 
-#### Test EMCUA
+### Test EMCUA
 
 
-### Acknowledgment
+## Acknowledgment
 
 This code is based on PSM-Net. Thanks to the contributors of PSM-Net.
 ```
