@@ -34,7 +34,7 @@ If you are using the code/model/data provided here in a publication, please cons
 
 ### Usage
 
-### Dependencies
+#### Dependencies
 
 - [Python2.7](https://www.python.org/downloads/)
 - [PyTorch(0.4.0+)](http://pytorch.org)
@@ -96,15 +96,15 @@ The structure of the folder "datasets" is shown below:
                     |--treeflight_x2
 ```
 
-### Train MCUA
+#### Train MCUA
 
-### Validate MCUA
+#### Validate MCUA
 
-### Train EMCUA
+#### Train EMCUA
 
-### Validate EMCUA
+#### Validate EMCUA
 
-### Test EMCUA
+#### Test EMCUA
 
 
 ### Acknowledgment
