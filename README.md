@@ -50,8 +50,28 @@ Download the datasets, and put them into one folder, named "datasets", the struc
      |--data_stereo_flow-kitti2012
      |--SceneFlowData
           |--disparity
+               |--driving
+                    |--15mm_focallength
+                    |--35mm_focallength
+               |--flyingthings3D
+                    |--TEST
+                         |--A
+                         |--B
+                         |--C
+                    |--TRAIN
+                         |--A
+                         |--B
+                         |--C
+               |--monkaa
+                    |--a_rain_of_stones_x2
+                    |--eating_camera2_x2
+                    |--eating_naked_camera2_x2
+                    |--...
+                    |--treeflight_x2
           |--frames_cleanpass
-
+               |--driving
+               |--flyingthings3D
+               |--monkaa
 ```
 
 ### Train MCUA
