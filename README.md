@@ -20,12 +20,13 @@ We also evaluate our method on Scene Flow and KITTI 2012/2015 stereo datasets.
 Experimental results show that our method outperforms state-of-the-art methods 
 by a notable margin and effectively improves the accuracy of stereo matching.
 
-# [Citation](http://mftp.mmcheng.net/Papers/Nie2019Stereo.txt)
+# Citation
 
 If you are using the code/model/data provided here in a publication, please consider citing our paper:<br>
-@inproceedings{Nie2019Stereo,
-  title={Multi-Level Context Ultra-Aggregation for Stereo Matching},
-  author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},
-  booktitle={IEEE CVPR},
-  year={2019},
-}
+<br>
+@inproceedings{Nie2019Stereo,<br>
+  title={Multi-Level Context Ultra-Aggregation for Stereo Matching},<br>
+  author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},<br>
+  booktitle={IEEE CVPR},<br>
+  year={2019},<br>
+}<br>
