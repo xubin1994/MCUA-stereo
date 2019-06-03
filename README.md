@@ -1,7 +1,6 @@
-[Multi-Level Context Ultra-Aggregation for Stereo Matching](https://mmcheng.net/mcua/)
-=
+##[Multi-Level Context Ultra-Aggregation for Stereo Matching](https://mmcheng.net/mcua/)
 
-# Introduction
+### Introduction
 
 Exploiting multi-level context information to cost volume can improve the performance of learning-based stereo matching methods. 
 In recent years, 3-D Convolution Neural Networks (3-D CNNs) show the advantages in regularizing cost volume
@@ -21,7 +20,7 @@ We also evaluate our method on Scene Flow and KITTI 2012/2015 stereo datasets.
 Experimental results show that our method outperforms state-of-the-art methods 
 by a notable margin and effectively improves the accuracy of stereo matching.
 
-# Citation
+### Citation
 
 If you are using the code/model/data provided here in a publication, please consider citing our paper:
 
