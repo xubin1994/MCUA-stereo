@@ -49,6 +49,16 @@ Put them in the same folder.
 And rename the folder as: "driving_frames_cleanpass", "driving_disparity", "monkaa_frames_cleanpass", "monkaa_disparity", "frames_cleanpass", "frames_disparity".
 ```
 
+### Train MCUA
+
+### Validate MCUA
+
+### Train EMCUA
+
+### Validate EMCUA
+
+### Test EMCUA
+
 
 ### Acknowledgment
 
