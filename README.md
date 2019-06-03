@@ -31,7 +31,6 @@ If you are using the code/model/data provided here in a publication, please cons
   year={2019}
 }
 ```
-
 ### Acknowledgment
 This code is based on PSM-Net. Thanks to the contributors of PSM-Net.
 ```
