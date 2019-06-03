@@ -2,6 +2,7 @@
 =
 
 # Introduction
+
 Exploiting multi-level context information to cost volume can improve the performance of learning-based stereo matching methods. 
 In recent years, 3-D Convolution Neural Networks (3-D CNNs) show the advantages in regularizing cost volume
 but are limited by unary features learning in matching cost computation. 
@@ -25,8 +26,9 @@ by a notable margin and effectively improves the accuracy of stereo matching.
 If you are using the code/model/data provided here in a publication, please consider citing our paper:<br>
 <br>
 @inproceedings{Nie2019Stereo,<br>
-  title={Multi-Level Context Ultra-Aggregation for Stereo Matching},<br>
-  author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},<br>
-  booktitle={IEEE CVPR},<br>
-  year={2019},<br>
+>>title={Multi-Level Context Ultra-Aggregation for Stereo Matching},<br>
+>>author={Guang-Yu Nie and Ming-Ming Cheng and Yun Liu and Zhengfa Liang and Deng-Ping Fan and Yue Liu and Yongtian Wang},<br>
+>>booktitle={IEEE CVPR},<br>
+>>year={2019},<br>
 }<br>
+<br>
